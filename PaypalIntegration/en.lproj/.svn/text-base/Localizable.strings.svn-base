@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  PaypalIntegration
+
+  Created by Paresh Bafna on 1/30/13.
+  Copyright (c) 2013 Paresh Bafna. All rights reserved.
+*/
+
+// For SplashScreen
+
+"Loading"="Loading...";
+
+// For SearchViewController
+
+"Heading"="Consultation";
+
+//name of first textfield
+
+"NameOfTextFieldOne"="Business Entity Name/Physics:";
+//name of second textfield
+"NameOfTextFieldSecond"="Last Name:";
+//name of third textfield
+"NameOfThirdTextField"="Maternal Surname:";
+
+//name of fourth textfield
+"NameOfFourthTextField"="Country/State:";
+
+//name of fifth textfield
+"NameOfFifthTextField"="Record ID:";
+
+//name of sixth textfield
+"NameOfSixthTextField"="Email-Address:";
+
+//Name Of the button at the Bottom
+
+"BottomButton"="Search Realizer";
+
+//bottomline label
+
+"BottomLabel"="No characters especials accents neither pongua en ios compas";
+
+//tabbar buttons
+"FirstButtonTitle"="Search";
+"SecondButtonTitle"="Tools";
+"ThirdButtonTitle"="Information";
+
+// For Herramientas screen
+
+"HeadingForHerramientas"="Tools";
+
+//"FirstTopLeftLabel"="News Events";
+
+"FirstTopLeftLabel"="Plates Finder\nFREE Federal District!!";
+//"SecondTopRightLabel"="Legal Radio";
+"SecondTopRightLabel"="Listen to us on Radio Legal";
+
+//"ThirdBottomLeftLabel"="Legal Advice";
+
+"ThirdBottomLeftLabel"="Free Legal\nAdvice";
+
+//"FourthBottomRightLabel"="Legal Alerts";
+"FourthBottomRightLabel"="Finder Professional Cédulas\nFREE!!";
+
+
+//for Acera De screen
+
+"HeadingTitleForAcercaDe"="About";
+
+"FirstHeadLabelTitle"="Consulting LTD.(2012)";
+
+"SecondLabelTitle"="Terms and Conditions";
+
+//this label is under second label
+
+"ThirdLabelUnderSecond"="Privacy Policy";
+
+"FourthLabelTitle"="Mobile Support:";
+// fifth label is under fourth label
+"FifthLabelUnderFourth"="Soportapple@l.com";
+
+//for payment screen
+
+"BackButtonTitle"="Return";
+"PaymentHeading"="Payment";
+"FirstCostLabel"="Cost research couple: $50.00 \nMXN";
+
+"SecondLabelTitleForPaymentScreen"="MXN";
+"ThirdLabelTitle"="Purchase";
+
+"DetailInfoLabelTitle"="For realizer a bank deposit, please contact us to proporctionarle bacarias accounts and indicate the procedure.";
+
+"QuestionLabelTitle"="Trouble completing your purchase?\n[Cilck Here]";
+
+//For resultados screen
+
+"BackButtonTitleForResultadosScreen"="Return";
+
+"MainHeadTitle"="Results";
+
+"CommonLabelForAll"="Semaforo";
+"FirstLabel"="High risk";
+"SecondLabel"="Moderate risk";
+"ThirdLabel"="Low risk";
+"DetailInfoLabelForResults"=" * In support of this view results\nsaran sent to the email address you indicated in the purchase Foema.";
+
+//common label on risk screen
+
+"resultsLabelOnRisk"="We found the following results:";
+
+"FirstLabelOnRiskScreen"="High Risk";
+"SecondLabelOnRiskScreen"="Moderate Risk";
+"ThirdLabelOnRiskScreen"="Low Risk";
+
+
+
+
+
+
+
+
+
+
+
+

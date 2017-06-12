@@ -1,0 +1,130 @@
+/* 
+  Localizable.strings
+  PaypalIntegration
+
+  Created by Paresh Bafna on 1/30/13.
+  Copyright (c) 2013 Paresh Bafna. All rights reserved.
+*/
+
+// For SplashScreen
+
+"Loading"="Carga...";
+
+
+// For SearchViewController
+
+"Heading"="Consulta"; 
+
+
+//name of textfield
+"NameOfTextFieldOne"="Nombre Persona Moral/Fisica:";
+
+//name of second textfield
+"NameOfTextFieldSecond"="Apellido Paterno:";
+//name of third textfield
+"NameOfThirdTextField"="Apellido Materno:";
+
+//name of fourth textfield
+"NameOfFourthTextField"="Pais/Estado: ";
+
+//name of fifth textfield
+"NameOfFifthTextField"="ID Registro:";
+
+//name of sixth textfield
+"NameOfSixthTextField"="Email-Address:";
+
+//tabbar buttons
+"FirstButtonTitle"="Busqueda";
+"SecondButtonTitle"="Herramientas";
+"ThirdButtonTitle"="Informacion";
+
+//bottomline label
+
+"BottomLabel"="No pongua acentos.Ni caracteres especials neither pongua en ios compas";
+
+
+//Name Of the button at the Bottom
+
+"BottomButton"="Realizer Busqueda";
+
+// For Herramientas screen
+
+"HeadingForHerramientas"="Herramientas";
+
+//"FirstTopLeftLabel"="Noticias y Eventos";
+"FirstTopLeftLabel"="Buscador de Placas del Distrito\nFederal GRATIS!!";
+//"SecondTopRightLabel"="Radio Legal";
+"SecondTopRightLabel"="Escúchanos en \nRadio Legal";
+//"ThirdBottomLeftLabel"="Asesoria legal";
+"ThirdBottomLeftLabel"="Asesoría Legal Gratuita";
+
+
+
+//"FourthBottomRightLabel"="Alertas Legales";
+"FourthBottomRightLabel"="Buscador de Cédulas \nProfesionales GRATIS!!";
+
+
+//for Acera De screen
+
+"HeadingTitleForAcercaDe"="Acerca De Mo-Bil";
+
+"FirstHeadLabelTitle"="Consultas LTD.(2012)";
+
+"SecondLabelTitle"="Terminos y Condiciones";
+
+//this label is under second label
+
+"ThirdLabelUnderSecond"="Politicas de Privaciadad";
+
+"FourthLabelTitle"="Soporte Mobile:";
+
+// fifth label is under fourth label
+
+"FifthLabelUnderFourth"="Soporteapple@l.com";
+
+//for payment screen
+
+"BackButtonTitle"="Regresar";
+
+"PaymentHeading"="Payment";
+
+"FirstCostLabel"="Costo par investigacion: $50.00 \nMXN";
+
+"SecondLabelTitleForPaymentScreen"="MXN";
+
+"ThirdLabelTitle"="Purchase";
+
+"DetailInfoLabelTitle"="Si desea realizer un deposito bancario,le pedimos comunicarse con nosotros para proporctionarle las cuentas bacarias  e indicarle el procedimiento correspondiente.";
+
+"QuestionLabelTitle"="?PROBLEMAS Para completar su compra?\n[PRESIONE AQUI]";
+
+//For resultados screen
+
+"BackButtonTitleForResultadosScreen"="Regressar";
+
+"MainHeadTitle"="Resultados";
+
+"CommonLabelForAll"="Semaforo";
+
+"FirstLabel"="Riesgos Altos";
+
+"SecondLabel"="Riesgos Moderados";
+
+"ThirdLabel"="Bajo Riesgos";
+
+"DetailInfoLabelForResults"="*Como respaldo de esta consulta\nlos resultados saran enviados al correo electronico que usted indico en la foema de compra.";
+
+
+//common label on risk screen
+
+"resultsLabelOnRisk"="Se encontraron los siguienes resultados:";
+
+"FirstLabelOnRiskScreen"="Alto Riesgo";
+"SecondLabelOnRiskScreen"="Riesgo Moderado";
+"ThirdLabelOnRiskScreen"="Riesgo Bajo";
+
+
+
+
+
+
